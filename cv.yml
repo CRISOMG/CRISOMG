@@ -1,0 +1,56 @@
+cv:
+  name: Cristian Caraballo
+  location: Anaco, Venezuela
+  email: caraballodev@gmail.com
+  phone: "+58 4128315538"
+  website: [github.com/CRISOMG](https://github.com/CRISOMG)
+  social_networks:
+    - network: LinkedIn
+      username: https://www.linkedin.com/in/crisomg
+    - network: GitHub
+      username: https://github.com/CRISOMG
+  
+  sections:
+    summary:
+      - Desarrollador Fullstack con 4 años de experiencia especializándome en el ecosistema JavaScript (MERN, Vue/Nuxt, NestJS). Experto en arquitecturas escalables usando AWS/Vercel y bases de datos SQL/NoSQL (PostgreSQL/Supabase, MongoDB). Apasionado por la automatización de flujos de trabajo con N8N y Docker.
+
+    experience:
+      - company: Empresa Actual / Freelance
+        position: Senior Fullstack Developer
+        start_date: 2022-01
+        end_date: present
+        highlights:
+          - Lideré la migración de un monolito Legacy a microservicios usando **NestJS** y **Docker**, reduciendo el tiempo de despliegue en un 40%.
+          - Arquitecté soluciones Serverless en **AWS (Lambda, S3)** integradas con **Supabase** para gestión de datos en tiempo real.
+          - Implementé flujos de automatización complejos con **N8N** para sincronización de datos entre CRMs y bases de datos internas.
+          - Desarrollé interfaces reactivas de alto rendimiento con **Nuxt 3** y **TailwindCSS**.
+
+      - company: Empresa Anterior
+        position: Fullstack Developer
+        start_date: 2019-01
+        end_date: 2021-12
+        highlights:
+          - Desarrollo de aplicaciones web SPA utilizando el stack **MERN** (MongoDB, Express, React, Node.js).
+          - Optimización de consultas SQL en **PostgreSQL** mejorando el rendimiento de reportes en un 60%.
+          - Despliegue y gestión de CI/CD pipelines en **Vercel** y GitHub Actions.
+
+    skills:
+      - label: Lenguajes y Frameworks
+        details: TypeScript, JavaScript (ES6+), Node.js, NestJS, Express, React, Vue.js, Nuxt.js, Next.js.
+      - label: Base de Datos y Backend
+        details: PostgreSQL, MongoDB, Supabase, Redis, TypeORM, Prisma.
+      - label: DevOps y Cloud
+        details: Docker, AWS (S3, Lambda, EC2), Vercel, Nginx, CI/CD (GitHub Actions).
+      - label: Herramientas
+        details: Git, N8N, Postman, Jest, Linux.
+
+design:
+  theme: engineeringresumes
+  font: Latinsans
+  font_size: 10pt
+  margins:
+    page:
+      top: 2cm
+      bottom: 2cm
+      left: 2cm
+      right: 2cm

@@ -3,7 +3,7 @@ name: Generar CV PDF
 on:
   push:
     paths:
-      - 'cv.yaml'
+      - 'cv.yml'
   workflow_dispatch:
 
 jobs:
