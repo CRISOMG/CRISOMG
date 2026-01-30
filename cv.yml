@@ -10,7 +10,7 @@ cv:
     - network: GitHub
       username: CRISOMG
     - network: WhatsApp
-      username: +584128315538
+      username: "+584128315538" # Corregido: Debe ser string (entre comillas)
 
   sections:
     summary:
@@ -78,17 +78,3 @@ cv:
 
 design:
   theme: engineeringresumes
-  font: Latinsans
-  font_size: 10pt
-  page_size: letter
-  color: "#2E4053" # Un tono azul oscuro profesional (Blue Slate)
-  disable_page_numbering: false
-  margins:
-    page:
-      top: 2cm
-      bottom: 2cm
-      left: 2cm
-      right: 2cm
-    section_title:
-      top: 0.3cm
-      bottom: 0.2cm

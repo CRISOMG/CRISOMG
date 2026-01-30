@@ -29,7 +29,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: CV_PDF
-          path: rendercv_output/Tu_Nombre_CV.pdf
+          path: rendercv_output/cv.pdf
 
       # Opción A: Commitear el PDF al repo (útil para enlazar directamente)
       - name: Guardar PDF en el repo
