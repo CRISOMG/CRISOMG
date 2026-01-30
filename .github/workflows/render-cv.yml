@@ -23,7 +23,7 @@ jobs:
         run: pip install rendercv[full]
 
       - name: Renderizar CV
-        run: rendercv render cv.yaml
+        run: rendercv render cv.yml
 
       - name: Subir PDF como Artifact (Temporal)
         uses: actions/upload-artifact@v4
