@@ -3,54 +3,92 @@ cv:
   location: Anaco, Venezuela
   email: caraballodev@gmail.com
   phone: "+58 4128315538"
-  website: [github.com/CRISOMG](https://github.com/CRISOMG)
+  website: https://github.com/CRISOMG
   social_networks:
     - network: LinkedIn
-      username: https://www.linkedin.com/in/crisomg
+      username: crisomg
     - network: GitHub
-      username: https://github.com/CRISOMG
-  
+      username: CRISOMG
+    - network: WhatsApp
+      username: +584128315538
+
   sections:
     summary:
-      - Desarrollador Fullstack con 4 años de experiencia especializándome en el ecosistema JavaScript (MERN, Vue/Nuxt, NestJS). Experto en arquitecturas escalables usando AWS/Vercel y bases de datos SQL/NoSQL (PostgreSQL/Supabase, MongoDB). Apasionado por la automatización de flujos de trabajo con N8N y Docker.
+      - Desarrollador Fullstack con +4 años de experiencia en la creación de soluciones web escalables y arquitecturas robustas. Especializado en el stack JavaScript (Vue/Nuxt, NestJS, Node.js) y ecosistemas Cloud (AWS, Vercel, Docker). Experto en la implementación de Clean Architecture, patrones de diseño (SOLID, DDD) y automatización de flujos de trabajo complejos con N8N. Capaz de liderar migraciones tecnológicas y optimizar bases de datos SQL/NoSQL.
 
     experience:
-      - company: Empresa Actual / Freelance
-        position: Senior Fullstack Developer
-        start_date: 2022-01
+      - company: Homming
+        position: FullStack Developer
+        start_date: 2025-06
+        end_date: 2025-07
+        highlights:
+          - Desarrollo y soporte de nuevas características para la plataforma SaaS inmobiliaria utilizando **PHP/Laravel** y **Vue 3**.
+          - Optimización de consultas **MySQL** y participación activa en ceremonias **SCRUM**.
+          - Mantenimiento de código legacy y refactorización progresiva hacia estándares modernos.
+
+      - company: Freelance (Sector Agrícola)
+        position: FullStack Developer
+        start_date: 2025-04
+        end_date: 2025-06
+        highlights:
+          - Desarrollo del Back-office para gestión de mantenimiento y producción agrícola.
+          - Implementación de arquitectura Serverless en **AWS** (Lambda, Cognito, DynamoDB) con **NestJS**.
+          - Desarrollo de frontend reactivo con **Nuxt 3**.
+
+      - company: Freelance (Sector Manufactura Médica)
+        position: Frontend Developer
+        start_date: 2023-12
+        end_date: 2024-08
+        highlights:
+          - Creación de Back-office para el control de procesos de manufactura y empaquetado.
+          - Desarrollo de interfaces complejas con **NuxtJS**, **Vue 2**, Vuetify y gestión de estado con Vuex.
+          - Containerización del entorno de desarrollo y despliegue con **Docker**.
+
+      - company: Freelance (Plataforma Financiera)
+        position: Backend Developer
+        start_date: 2022-11
+        end_date: 2023-01
+        highlights:
+          - Desarrollo de CRM para gestión de financiamiento.
+          - Diseño de APIs RESTful con **NestJS** integrando **MongoDB** (Mongoose) y **PostgreSQL** (TypeORM).
+          - Implementación de patrones de arquitectura hexagonal para desacoplar la lógica de negocio.
+
+    education:
+      - institution: Platzi
+        area: Ingeniería de Software y Fullstack Development
+        start_date: 2019-08
         end_date: present
         highlights:
-          - Lideré la migración de un monolito Legacy a microservicios usando **NestJS** y **Docker**, reduciendo el tiempo de despliegue en un 40%.
-          - Arquitecté soluciones Serverless en **AWS (Lambda, S3)** integradas con **Supabase** para gestión de datos en tiempo real.
-          - Implementé flujos de automatización complejos con **N8N** para sincronización de datos entre CRMs y bases de datos internas.
-          - Desarrollé interfaces reactivas de alto rendimiento con **Nuxt 3** y **TailwindCSS**.
-
-      - company: Empresa Anterior
-        position: Fullstack Developer
-        start_date: 2019-01
-        end_date: 2021-12
-        highlights:
-          - Desarrollo de aplicaciones web SPA utilizando el stack **MERN** (MongoDB, Express, React, Node.js).
-          - Optimización de consultas SQL en **PostgreSQL** mejorando el rendimiento de reportes en un 60%.
-          - Despliegue y gestión de CI/CD pipelines en **Vercel** y GitHub Actions.
+          - Formación intensiva autodidacta (+80 cursos completados).
+          - Especialización en Arquitectura de Software, Backend con Node.js, Frontend con Vue.js y Habilidades Blandas.
 
     skills:
-      - label: Lenguajes y Frameworks
-        details: TypeScript, JavaScript (ES6+), Node.js, NestJS, Express, React, Vue.js, Nuxt.js, Next.js.
-      - label: Base de Datos y Backend
-        details: PostgreSQL, MongoDB, Supabase, Redis, TypeORM, Prisma.
-      - label: DevOps y Cloud
-        details: Docker, AWS (S3, Lambda, EC2), Vercel, Nginx, CI/CD (GitHub Actions).
-      - label: Herramientas
-        details: Git, N8N, Postman, Jest, Linux.
+      - label: Frontend
+        details: Vue.js (2/3), Nuxt.js, React, TailwindCSS, Vuetify, Figma.
+      - label: Backend
+        details: NestJS, Node.js, Express, PHP (Laravel), Python, C#.
+      - label: Base de Datos
+        details: PostgreSQL, MongoDB, Supabase, DynamoDB, MySQL, Redis.
+      - label: DevOps & Cloud
+        details: AWS (Lambda, S3, Cognito), Docker, Vercel, CI/CD (GitHub Actions), N8N.
+      - label: Arquitectura
+        details: Clean Architecture, DDD, SOLID, TDD, Microservicios, Serverless.
+      - label: Idiomas
+        details: Español (Nativo), Inglés (B2 - EF SET Certificate).
 
 design:
   theme: engineeringresumes
   font: Latinsans
   font_size: 10pt
+  page_size: letter
+  color: "#2E4053" # Un tono azul oscuro profesional (Blue Slate)
+  disable_page_numbering: false
   margins:
     page:
       top: 2cm
       bottom: 2cm
       left: 2cm
       right: 2cm
+    section_title:
+      top: 0.3cm
+      bottom: 0.2cm
