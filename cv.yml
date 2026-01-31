@@ -11,10 +11,10 @@ cv:
       username: CRISOMG
 
   sections:
-    summary:
+    resumen:
       - Desarrollador Fullstack con +4 años de experiencia en la creación de soluciones web escalables y arquitecturas robustas. Especializado en el stack JavaScript (Vue/Nuxt, NestJS, Node.js) y ecosistemas Cloud (AWS, Vercel, Docker). Experto en la implementación de Clean Architecture, patrones de diseño (SOLID, DDD) y automatización de flujos de trabajo complejos con N8N. Capaz de liderar migraciones tecnológicas y optimizar bases de datos SQL/NoSQL.
 
-    experience:
+    experiencia:
       - company: Homming
         position: FullStack Developer
         start_date: 2025-06
@@ -51,16 +51,16 @@ cv:
           - Diseño de APIs RESTful con **NestJS** integrando **MongoDB** (Mongoose) y **PostgreSQL** (TypeORM).
           - Implementación de patrones de arquitectura hexagonal para desacoplar la lógica de negocio.
 
-    education:
+    educacion:
       - institution: Platzi
         area: Ingeniería de Software y Fullstack Development
         start_date: 2019-08
-        end_date: present
+        end_date: 2021-09
         highlights:
-          - Formación intensiva autodidacta (+80 cursos completados).
-          - Especialización en Arquitectura de Software, Backend con Node.js, Frontend con Vue.js y Habilidades Blandas.
+          - Formación intensiva autodidacta (+80 cursos completados) hasta la actualidad.
+          - Especialización en Desarrollo Web FullStack MERN y JAMStack, Backend con Node.js/Express/Nestjs, Frontend con React/Next - Vue/Nuxt y Habilidades Blandas.
 
-    skills:
+    habilidades:
       - label: Frontend
         details: Vue.js (2/3), Nuxt.js, React, TailwindCSS, Vuetify, Figma.
       - label: Backend
