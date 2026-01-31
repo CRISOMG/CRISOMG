@@ -9,8 +9,6 @@ cv:
       username: crisomg
     - network: GitHub
       username: CRISOMG
-    - network: Telegram
-      username: "+584128315538" # Corregido: Debe ser string (entre comillas)
 
   sections:
     summary:
