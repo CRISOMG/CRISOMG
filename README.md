@@ -114,6 +114,6 @@ Mi CV se encuentra siempre actualizado y sincronizado en este repositorio:
 ### 📫 Contacto
 
 - 💼 **LinkedIn:** [linkedin.com/in/crisomg](https://linkedin.com/in/crisomg)
-- ✉️ **Email:** [caraballodev@gmail.com](mailto:caraballodev@gmail.com)
+- ✉️ **Email:** [contact@crisomg.link](mailto:contact.github@crisomg.link)
 - 🐙 **GitHub:** [github.com/CRISOMG](https://github.com/CRISOMG)
 - 💬 **Whatsapp:** [+584128315538](https://wa.me/+584128315538)
