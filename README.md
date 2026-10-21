@@ -3,7 +3,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/crisomg)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caraballodev@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.github@crisomg.link)
 [![Download CV](https://img.shields.io/badge/Descargar_CV-PDF-00DC82?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/CRISOMG/CRISOMG/raw/main/output/cv.pdf)
 [![Location](https://img.shields.io/badge/Ubicaci%C3%B3n-Anaco%2C%20Venezuela-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
 
